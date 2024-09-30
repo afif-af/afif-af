@@ -70,16 +70,9 @@ I am Md. Afif Afroz Fahim, currently pursuing a BSc in Computer Science and Engi
 
 
 
-  
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
 </a>
-
-
-
-
-
-
 
 
 
@@ -98,9 +91,10 @@ I am Md. Afif Afroz Fahim, currently pursuing a BSc in Computer Science and Engi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afif-af)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=afif-af&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=afif-af)  
- 
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afif-af" alt="afif-af" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afif-af&label=Profile%20views&color=0e75b6&style=flat" alt="afif-af" /> </p>
 ---
-[![](https://visitcount.itsvg.in/api?id=Afif-af&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
