@@ -12,10 +12,12 @@ I am Md. Afif Afroz Fahim, currently pursuing a BSc in Computer Science and Engi
 * 🧠  I'm learning Full Stack Web Development
 * 🤝  I'm open to collaborating on i
 
-<a href="https://www.github.com/afif-af" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/afif-af?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/afif_af20" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/afif_af20?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+<a href="https://www.github.com/afif-af" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/afif-af?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" />
+</a>
+<a href="https://www.x.com/afif_af20" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/afif_af20?logo=twitter&style=for-the-badge&color=0891b2&labelColor=ffffff" alt="X (Twitter) Follow" />
+</a>
 
 ### Skills
 
