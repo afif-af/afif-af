@@ -99,7 +99,7 @@ I am Md. Afif Afroz Fahim, currently pursuing a BSc in Computer Science and Engi
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=afif-af&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=afif-af)  
  
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afif-af" alt="afif-af" /></a> </p>
 ---
 [![](https://visitcount.itsvg.in/api?id=Afif-af&icon=0&color=0)](https://visitcount.itsvg.in)
 
