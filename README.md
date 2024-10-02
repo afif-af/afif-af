@@ -5,7 +5,7 @@ Hi My name is Md. Afif Afroz Fahim
 Web Developer
 -------------
 
-I am Md. Afif Afroz Fahim, currently pursuing a BSc in Computer Science and Engineering from Chandpur Science and Technology University. My academic and professional interests lie in the field of Artificial Intelligence, where I am actively working on it I am a competitive programmer with C++ and Python and Java. My passion for coding and problem-solving drives me to continually enhance my skills and stay updated with the latest advancements in technology.
+I am Md. Afif Afroz Fahim, currently pursuing a BSc in Computer Science and Engineering from Chandpur Science and Technology University. My academic and professional interests lie in the field of .., where I am actively working on it I am a competitive programmer with C++ and Python and Java. My passion for coding and problem-solving drives me to continually enhance my skills and stay updated with the latest advancements in technology.
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [mdafifafrozfahim@gmail.com](mailto:mdafifafrozfahim@gmail.com)
