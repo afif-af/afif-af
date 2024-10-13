@@ -42,6 +42,9 @@ I am Md. Afif Afroz Fahim, currently pursuing a BSc in Computer Science and Engi
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afif-af" alt="afif-af" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afif-af&label=Profile%20views&color=0e75b6&style=flat" alt="afif-af" /> </p>
+
+
+![](https://leetcard.jacoblin.cool/jacoblincool?width=500&height=500)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
