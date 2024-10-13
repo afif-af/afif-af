@@ -44,7 +44,7 @@ I am Md. Afif Afroz Fahim, currently pursuing a BSc in Computer Science and Engi
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afif-af&label=Profile%20views&color=0e75b6&style=flat" alt="afif-af" /> </p>
 
 
-![](https://leetcard.jacoblin.cool/jacoblincool?width=500&height=500)
+![](https://leetcard.jacoblin.cool/afifaf?width=500&height=300)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
