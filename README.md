@@ -62,9 +62,9 @@ Hello! I’m **Md. Afif Afroz Fahim**, a passionate learner and developer from *
 
 ### 🏆 GitHub Stats & Badges
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afif-af&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afif-af&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afif-af&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afif-af&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afif-af&layout=compact&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afif-af&theme=default)
 [![Profile Trophy](https://github-profile-trophy.vercel.app/?username=afif-af&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 ![Profile Views](https://komarev.com/ghpvc/?username=afif-af&label=Profile%20Views&color=blue&style=flat)
 
