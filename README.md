@@ -27,22 +27,23 @@ Hello! I’m **Md. Afif Afroz Fahim**, a passionate learner and developer from *
   <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" height="36" alt="Django" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" alt="JavaScript" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="36" alt="React" /></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="36" alt="Hadoop" /></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="36" alt="Spark" /></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Elasticsearch_logo.svg" height="36" alt="Elasticsearch" /></a>
+<!--   <a href="#"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="36" alt="Hadoop" /></a> -->
+<!--   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="36" alt="Spark" /></a>  -->
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Elasticsearch_logo.svg" height="36" alt="Elasticsearch" /></a> 
   <a href="#"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="36" alt="RabbitMQ" /></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="36" alt="OpenCV" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" height="36" alt="PyTorch" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" height="36" alt="TensorFlow" /></a>
-  <a href="#"><img src="https://www.r-project.org/logo/Rlogo.svg" height="36" alt="R" /></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="36" alt="Kubernetes" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="36" alt="Docker" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="36" alt="AWS" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" height="36" alt="PostgreSQL" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="36" alt="MongoDB" /></a>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="36" alt="Scikit-learn" /></a>
   <a href="#"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="36" alt="Seaborn" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="36" alt="Pandas" /></a>
+<!--   <a href="#"><img src="https://www.r-project.org/logo/Rlogo.svg" height="36" alt="R" /></a> -->
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="36" alt="Kubernetes" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="36" alt="Docker" /></a>
+<!--   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="36" alt="AWS" /></a> -->
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" height="36" alt="PostgreSQL" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="36" alt="MongoDB" /></a>
+  
 </p>
 
 ---
