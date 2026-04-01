@@ -29,8 +29,8 @@ Hello! I’m **Md. Afif Afroz Fahim**, a passionate learner and developer from *
   <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="36" alt="React" /></a>
 <!--   <a href="#"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="36" alt="Hadoop" /></a> -->
 <!--   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="36" alt="Spark" /></a>  -->
-  <<a href="#">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Elasticsearch_logo.svg/512px-Elasticsearch_logo.svg.png" height="36" alt="Elasticsearch" />
+  <a href="#">
+  <img src="https://img.icons8.com/color/512/elasticsearch.png" height="36" alt="Elasticsearch"/>
 </a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="36" alt="RabbitMQ" /></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="36" alt="OpenCV" /></a>
