@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-Hello! I’m **Md. Afif Afroz Fahim**, a passionate learner and developer from **Bangladesh**. I love turning ideas into reality using code. As a **competitive programmer** in **C++** and **Python**, I enjoy solving complex problems. I'm deeply interested in **AI/ML, Computer Vision, and Natural Language Processing** and I'm constantly exploring the latest innovations in tech.
+Hello! I’m **Md. Afif Afroz Fahim**, a passionate learner and developer from **Bangladesh**. I love turning ideas into reality using code. As a **competitive programmer** in **Python**, I enjoy solving complex problems. I'm deeply interested in **AI/ML, Computer Vision, and Natural Language Processing** and I'm constantly exploring the latest innovations in tech.
 
 - 📫 Email: [mdafifafrozfahim@gmail.com](mailto:mdafifafrozfahim@gmail.com)  
 - 💬 Open to collaborations in AI, Web Dev, and Open Source  
@@ -29,7 +29,9 @@ Hello! I’m **Md. Afif Afroz Fahim**, a passionate learner and developer from *
   <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="36" alt="React" /></a>
 <!--   <a href="#"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="36" alt="Hadoop" /></a> -->
 <!--   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="36" alt="Spark" /></a>  -->
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Elasticsearch_logo.svg" height="36" alt="Elasticsearch" /></a> 
+  <<a href="#">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Elasticsearch_logo.svg/512px-Elasticsearch_logo.svg.png" height="36" alt="Elasticsearch" />
+</a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="36" alt="RabbitMQ" /></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="36" alt="OpenCV" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" height="36" alt="PyTorch" /></a>
