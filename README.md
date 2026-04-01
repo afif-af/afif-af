@@ -42,7 +42,6 @@ Hello! I’m **Md. Afif Afroz Fahim**, a passionate learner and developer from *
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="36" alt="Docker" /></a>
 <!--   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="36" alt="AWS" /></a> -->
   <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" height="36" alt="PostgreSQL" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="36" alt="MongoDB" /></a>
   
 </p>
 
