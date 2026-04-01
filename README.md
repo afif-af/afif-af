@@ -24,7 +24,7 @@ Hello! I’m **Md. Afif Afroz Fahim**, a passionate learner and developer from *
 
 <p align="left">
   <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="36" alt="Python" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" height="36" alt="Django" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" height="36" alt="FastAPI" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" alt="JavaScript" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="36" alt="React" /></a>
 <!--   <a href="#"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="36" alt="Hadoop" /></a> -->
